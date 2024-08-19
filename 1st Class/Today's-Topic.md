@@ -7,11 +7,11 @@
 
 
 1. Selectors & Units
-=> Discuss in Class with the help of given image
+=> Discuss in Class with the help of given image   //cover
 
 2. What is CSS : 
 => CSS (CasCading Style Sheets) is a language used to describe the presentation of document written in HTML or XML. CSS defines how elements
-should be rendered on screen , on the paper or in other media.
+should be rendered on screen , on the paper or in other media. // cover
 
 3. Types Of CSS:
 => You can use CSS in three ways : Inline CSS, Internal CSS, External CSS
@@ -21,7 +21,7 @@ should be rendered on screen , on the paper or in other media.
 - External CSS: In a seperate file that you link to your HTML File.
 
 
-4. All type Of Selector's With Units
+4. Fonts & Backrgounds  // not cover
 => Discuss in Class with the help of given image
 
 
